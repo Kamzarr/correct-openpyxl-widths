@@ -14,6 +14,7 @@ it gives value of 13 for default width
 
 	
 example of problematic column dimensions are in "dimensions_test.xlsx", columns J-L (10-12):
+
     <col min="10" max="12" width="15.77734375" customWidth="1"/>
 
 openpyxl regular dimensions reading will give correct value only to first (J) column in range
